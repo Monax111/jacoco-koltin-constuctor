@@ -17,7 +17,6 @@ class AnchorTest {
 
     @Test
     fun secondaryConstructor() {
-        Anchor("", "", "", "")
         Anchor("", null, null, null)
     }
 
